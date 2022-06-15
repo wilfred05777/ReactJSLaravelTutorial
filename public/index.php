@@ -1,3 +1,11 @@
+ <!-- 
+    -https://laravel.com/docs/7.x/frontend
+    - https://appdividend.com/2022/02/28/laravel-reactjs/
+    -composer require laravel/ui
+    -php artisan ui react 
+
+-->
+
 <?php
 
 use Illuminate\Contracts\Http\Kernel;
