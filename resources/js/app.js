@@ -4,6 +4,8 @@
  * building robust, powerful web applications using React + Laravel.
  */
 
+import { render } from "react-dom";
+
 require("./bootstrap");
 
 /**
@@ -13,4 +15,6 @@ require("./bootstrap");
  */
 
 require("./components/Example");
-require("./components/");
+require("./components/Master");
+
+render(<Master />, document.getElementById("Master"));
